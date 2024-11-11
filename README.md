@@ -3,7 +3,7 @@
 # Cubed Parkour
 My oldest piece of software I can still find. Released on the 6th of febrary 2015. I was 14 years old at the time. If i remember correctly it is written in some C like language in the GameMaker game engine.
 
-NOTE: I do not have the sourcecode for this anymore. So please do not run the .exe I cannot guarantee the safety of this program.
+NOTE: I do not have the sourcecode for this anymore. So please do not run the .exe without a VM since I cannot guarantee the safety of this program.
 
 ![image](https://github.com/user-attachments/assets/142d93a9-6d17-4094-a064-9bfc7c4f7880)
 
